@@ -1,4 +1,4 @@
-# API de Controle Financeiro
+# FortunaFlow API
 
 Esta é uma RESTful API construída para gerenciar um sistema de controle financeiro. A API permite que os usuários realizem as seguintes operações:
 
